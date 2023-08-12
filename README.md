@@ -31,8 +31,8 @@ License for code: [MIT](LICENSE.md#mit-license)
 License for media: [CC BY-SA 4.0](LICENSE.md#cc-by-sa-40-license)
 
 Derivative sources:
-- `quicksatck_locked.png`: http://www.clker.com/clipart-2687.html
-- `quicksatck_unlocked.png`: http://www.clker.com/clipart-2981.html
+- `quickstack_locked.png`: http://www.clker.com/clipart-2687.html
+- `quickstack_unlocked.png`: http://www.clker.com/clipart-2981.html
 - `quickstack_lock_*.png`: https://www.kenney.nl/assets/game-icons
 - `quickstack_settings.png` (gear): https://github.com/minetest/minetest/blob/master/textures/base/pack/gear_icon.png
 - `quickstack_pop.ogg`: https://freesound.org/people/MATRIXXX_/sounds/506545
