@@ -44,9 +44,9 @@ ui.register_page("quickstack_settings", {get_formspec = function(player, style)
 		format("label[%f,%f;%s]", style.form_header_x, style.form_header_y, FS("Quick stack settings")),
 		format("tooltip[%f,%f;6.7,3.3;%s]",
 			style.std_inv_x + 0.1, offset, FS("Locked inventory slots are not quick stacked")),
-		format("image_button[%f,%f;0.75,0.75;ui_locked.png;qs_lock_all;]tooltip[qs_lock_all;%s]",
+		format("image_button[%f,%f;0.75,0.75;quickstack_locked.png;qs_lock_all;]tooltip[qs_lock_all;%s]",
 			style.std_inv_x + 7.35, offset, FS("Lock all inventory slots")),
-		format("image_button[%f,%f;0.75,0.75;ui_unlocked.png;qs_unlock_all;]tooltip[qs_unlock_all;%s]",
+		format("image_button[%f,%f;0.75,0.75;quickstack_unlocked.png;qs_unlock_all;]tooltip[qs_unlock_all;%s]",
 			style.std_inv_x + 8.2, offset, FS("Unlock all inventory slots")),
 	}
 	for i=1, 32 do
