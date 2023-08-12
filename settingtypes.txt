@@ -1,0 +1,7 @@
+# Comma separated list of nodes to exclude from quick stacking.
+# Used to exclude nodes that have "chest" in their name, but shouldn't be quick stacked to.
+quickstack_exclude_nodes (Exclude nodes) string
+
+# Comma separated list of nodes to include in quick stacking.
+# Used to add support for nodes that don't have "chest" in their name.
+quickstack_include_nodes (Include nodes) string
