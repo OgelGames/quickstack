@@ -1,0 +1,14 @@
+
+# textdomain: quickstack
+
+Quick stack to nearby chests=
+Quick stack settings=
+Locked inventory slots are not quick stacked=
+Lock all inventory slots=
+Unlock all inventory slots=
+Lock tools=
+Tools are not quick stacked=
+Exact match=
+Only items with matching metadata are quick stacked=
+Show locked=
+Locked slots are shown in the inventory=
